@@ -1,0 +1,10 @@
+package feature2;
+
+public class Feature2Page {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
